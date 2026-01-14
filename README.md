@@ -5,4 +5,5 @@ Gerenciando os repositórios
 
 
 
-<a href= "https://https://pablothome.github.io/html-css/css/desafio/desafio01.html"> Executar</a>  
+<a href= "https://pablothome.github.io/html-css/css/desafio01/desafio01.html
+"> Executar o desafio 01</a>  
